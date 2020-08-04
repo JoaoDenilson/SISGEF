@@ -1,0 +1,59 @@
+*{
+	margin:0;
+	padding: 0;
+}
+input{
+	width: 100%;
+}
+
+.fl_right{
+	float: right;
+}
+
+
+form{
+	background: rgb(204,204,204);
+}
+.forms{
+	width: 40%;
+	padding-left: 2%;
+	padding-top: 2%;
+}
+
+.tds{
+	width: 7%;
+	padding-right: 40%;
+}
+
+.p_small {
+	padding: 2%;
+}
+
+.box_2{
+	float: left;
+	width: 49%;
+	margin-right: 2%;
+	margin-bottom: 10px;
+}
+
+.box_2:nth-child(2n+0){
+	margin-right:0;
+}
+
+.btn{
+	float: right;
+	margin-right: 10px;
+	width: auto;
+}
+
+.search{
+	border: solid 1px;
+	border-color: rgb(204,204,204);
+	border-radius: 6px;
+	float: right;
+}
+
+.borda{
+	border-color: #000;
+	border: 1px;
+}
